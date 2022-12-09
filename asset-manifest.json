@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Rayz-Web-App/static/css/main.9b6a8104.css",
-    "main.js": "/Rayz-Web-App/static/js/main.e10d5cc7.js",
+    "main.js": "/Rayz-Web-App/static/js/main.3aeb9492.js",
     "static/media/Login Desktop.png": "/Rayz-Web-App/static/media/Login Desktop.b810695ecb8467676c5b.png",
     "index.html": "/Rayz-Web-App/index.html",
     "main.9b6a8104.css.map": "/Rayz-Web-App/static/css/main.9b6a8104.css.map",
-    "main.e10d5cc7.js.map": "/Rayz-Web-App/static/js/main.e10d5cc7.js.map"
+    "main.3aeb9492.js.map": "/Rayz-Web-App/static/js/main.3aeb9492.js.map"
   },
   "entrypoints": [
     "static/css/main.9b6a8104.css",
-    "static/js/main.e10d5cc7.js"
+    "static/js/main.3aeb9492.js"
   ]
 }
