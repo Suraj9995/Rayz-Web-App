@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Rayz-Web-App/static/css/main.8ef0537a.css",
-    "main.js": "/Rayz-Web-App/static/js/main.09ae01b9.js",
+    "main.css": "/Rayz-Web-App/static/css/main.882caa03.css",
+    "main.js": "/Rayz-Web-App/static/js/main.0b424417.js",
     "static/media/Tab Landscape.png": "/Rayz-Web-App/static/media/Tab Landscape.7bcb39329d9a90c858cb.png",
     "static/media/LogoLowHD.png": "/Rayz-Web-App/static/media/LogoLowHD.10e436eafd6765836b37.png",
     "static/media/Mobile Horizontal.png": "/Rayz-Web-App/static/media/Mobile Horizontal.d550936bedc64f2ac1d2.png",
     "static/media/Desktop LowHD.jpg": "/Rayz-Web-App/static/media/Desktop LowHD.ee1e91b1d2c720d24f29.jpg",
     "index.html": "/Rayz-Web-App/index.html",
-    "main.8ef0537a.css.map": "/Rayz-Web-App/static/css/main.8ef0537a.css.map",
-    "main.09ae01b9.js.map": "/Rayz-Web-App/static/js/main.09ae01b9.js.map"
+    "main.882caa03.css.map": "/Rayz-Web-App/static/css/main.882caa03.css.map",
+    "main.0b424417.js.map": "/Rayz-Web-App/static/js/main.0b424417.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ef0537a.css",
-    "static/js/main.09ae01b9.js"
+    "static/css/main.882caa03.css",
+    "static/js/main.0b424417.js"
   ]
 }
